@@ -18,7 +18,7 @@
     "role": ["ROLE_USER", "ROLE_REFERRER"],
     "email": "drext01@email"
   },
-  "api/TokenAuth/": {
+  "TokenAuth": {
     "result": {
       "accessToken": "ubr9823ihfn2ehf.239yf982hfwe89jfw.3827rfiuwehfwe"
     }
