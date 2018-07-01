@@ -19,6 +19,7 @@
     "email": "drext01@email"
   },
   "TokenAuth": {
+    "ok": true,
     "result": {
       "accessToken": "ubr9823ihfn2ehf.239yf982hfwe89jfw.3827rfiuwehfwe"
     }
